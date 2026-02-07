@@ -1,0 +1,11 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Secrets / local config
+.env
+vault.db
+
+# OS
+.DS_Store
